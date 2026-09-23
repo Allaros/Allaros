@@ -56,13 +56,9 @@ Backend ([social-backend](https://github.com/Allaros/social-backend)) стал �
 
 ## 💡 Что мне интересно
 
-Сейчас мне наиболее интересна **Full-Stack и Backend разработка на TypeScript**.
+Сейчас мне одинаково интересны **Frontend и Backend разработка**. Мне нравится работать как над пользовательским интерфейсом и взаимодействием с ним, так и над серверной частью, API, базами данных и бизнес-логикой.
 
-Мне нравится разбираться в том, как устроены приложения изнутри: проектировать API, работать с базами данных, разделять бизнес-логику и инфраструктуру, продумывать структуру модулей и взаимодействие между клиентом и сервером.
-
-Отдельный интерес для меня представляют real-time приложения, WebSocket, событийная архитектура и задачи, связанные с производительностью и масштабированием.
-
-При этом я продолжаю развиваться и во frontend-разработке, поскольку считаю полезным понимать весь путь данных — от пользовательского интерфейса до базы данных и обратно.
+Мне интересно понимать приложение целиком и то, как отдельные его части взаимодействуют между собой. На frontend мне особенно интересны React и Next.js, управление состоянием и данными, а на backend — NestJS, PostgreSQL, Redis и построение хорошо структурированных API.
 
 ---
 
@@ -78,14 +74,20 @@ Backend ([social-backend](https://github.com/Allaros/social-backend)) стал �
 
 **Junior+ Full-Stack Developer**
 
-Моя основная специализация сейчас:
+**Frontend:** React(TypeScript) | Next.js | Redux Toolkit | TanStack Query | Tailwind CSS | Socket.IO
 
-`TypeScript → React / Next.js → Node.js / NestJS → PostgreSQL / Redis`
+**Backend:** Node.js(TypeScript) | NestJS | REST API | WebSocket | JWT | OAuth
 
-Я продолжаю развиваться в сторону более глубокого понимания backend-разработки и архитектуры приложений, сохраняя при этом сильный интерес к full-stack разработке.
+**Database & Infrastructure:** PostgreSQL | TypeORM | Redis | Supabase | Docker
+
+**Tools:** Git | GitHub | npm
+
+Я продолжаю развиваться в сторону более глубокого понимания frontend-разработки и архитектуры приложений, сохраняя при этом сильный интерес к backend-разработке.
 
 ---
 
 ## 📫 Контакты
 
 - GitHub: [github.com/Allaros](https://github.com/Allaros)
+- Telegram: [https://t.me/sergeydubskii](@sergeydubskii)
+- Email: [dubskiy_03@mail.ru]
